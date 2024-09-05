@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      this is App
+      <h2 color="green">this is the firstReactApp</h2>
     </div>
   );
 }
